@@ -10,4 +10,7 @@ güncelleme beslemesini (`latest.yml`) ve launcher haber akışını
   `Get-FileHash .\HLauncher-Kurulum-<sürüm>.exe -Algorithm SHA256`
 - Kurulu launcher kendini bu repodan otomatik günceller.
 
+- **Web sayfası:** https://hardsetups.github.io/HLauncher-releases/ (kaynağı `docs/`)
+- **Sunucu sahipleri için:** [SUNUCU-MANIFESTI.md](SUNUCU-MANIFESTI.md) (`hlauncher.json` biçimi)
+
 HLauncher, Mojang veya Microsoft ile bağlantılı değildir.
